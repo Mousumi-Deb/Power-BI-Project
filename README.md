@@ -1,7 +1,6 @@
 
 # Power BI Projects Showcase
-
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png)
+![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/50px-Power_bi_logo_black.svg.png)
 
 ## Overview
 Welcome to the Power BI Projects Showcase repository! This space is dedicated to housing a diverse collection of sophisticated Power BI projects, reports, and data visualizations. Power BI, Microsoft's cutting-edge business analytics tool, enables users to transform raw data into actionable insights, empowering organizations to make informed decisions and drive success.
